@@ -1,0 +1,8 @@
+C:\Users\ifsp\Documents\Josi\teste\teste\bin\Debug\teste.exe
+C:\Users\ifsp\Documents\Josi\teste\teste\bin\Debug\teste.pdb
+C:\Users\ifsp\Documents\Josi\teste\teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Documents\Josi\teste\teste\obj\x86\Debug\teste.Properties.Resources.resources
+C:\Users\ifsp\Documents\Josi\teste\teste\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Documents\Josi\teste\teste\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ifsp\Documents\Josi\teste\teste\obj\x86\Debug\teste.exe
+C:\Users\ifsp\Documents\Josi\teste\teste\obj\x86\Debug\teste.pdb
